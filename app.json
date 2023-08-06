@@ -2,7 +2,7 @@
   
 
   
-"change_content":"no",
+"change_content":"yes",
 "game_url":"https://cdn-factory.marketjs.com/en/puzzle-ball/index.html",
 "splash_text":"complete all levels 2023",
   
@@ -15,10 +15,10 @@
 
 },
  "my_data":[
-  { "Link1": "https://www.google.com/",
-    "Link2": "https://www.google.com/",
-    "Link3": "https://www.google.com/",
-    "Link4": "https://www.google.com/"},
+  { "Link1": "https://startfortnite.netlify.app/",
+    "Link2": "https://startfortnite.netlify.app/",
+    "Link3": "https://startfortnite.netlify.app/",
+    "Link4": "https://startfortnite.netlify.app/"},
 
    ]
 
